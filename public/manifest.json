@@ -1,0 +1,8 @@
+{
+  "short_name": "Clicky Game with React",
+  "name": "Clicky Game",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
